@@ -4,6 +4,9 @@ A PyRevit tool that scans appearance assets in a Revit model and reconnects miss
 It searches for texture files by filename across one or more user-defined root folders and remembers those folders across sessions.
 
 ---
+[![Demo video thumbnail](https://img.youtube.com/vi/Ao4t1zupCVU/0.jpg)](https://youtu.be/Ao4t1zupCVU)
+
+---
 
 ## Overview
 
